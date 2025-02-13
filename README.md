@@ -23,7 +23,13 @@
 
 ## 📈 GitHub Stats  
 
-<p align="center"> <img src="https://github-readme-streak-stats.vercel.app/?user=kawaljeet999&theme=radical&hide_border=true" width="48%"> <img src="https://github-readme-stats.vercel.app/api?username=kawaljeet999&show_icons=true&theme=radical&hide_border=true" width="48%"> </p>
+## 📈 GitHub Stats  
+
+<p align="center">  
+  <img src="https://github-readme-streak-stats.vercel.app/?user=kawaljeet999&theme=radical&hide_border=true" width="48%">  
+  <img src="https://github-readme-stats.vercel.app/api?username=kawaljeet999&show_icons=true&theme=radical&hide_border=true" width="48%">  
+</p>
+
 
 
 ---  
