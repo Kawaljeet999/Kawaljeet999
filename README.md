@@ -1,8 +1,8 @@
 # 💻 Welcome to My GitHub! 🚀  
 
-<p align="center">  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">  
-</p>  
+<p align="center">     
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaljeet999&theme=radical&hide_border=true" width="48%">       
+</p>
 
 ## 🚀 About Me  
 👋 Hey there! I'm [Your Name], a passionate Software Developer and Problem Solver driven by innovation and efficiency. I specialize in backend engineering, OCR applications, and scalable systems, constantly pushing the boundaries of technology.  
