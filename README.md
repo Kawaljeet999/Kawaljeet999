@@ -42,14 +42,37 @@
 
 ## 🚀 Featured Projects  
 
-### 🔹 OCR-Powered Attendance Management System  
-✅ Automates attendance tracking using OCR and Image Processing.  
-✅ Built with Django, Python, and OpenCV.  
-✅ Handles Excel Integration and Database Management.  
+Here's how you can include the **Potato Classification** project along with the provided links:
 
-📌 Live Demo: [Your Project Link]  
-📂 GitHub Repo: [Your Project Repo]  
+---
 
+## 🚀 Featured Projects  
+
+### 🔹 **Potato Classification Model**  
+✅ A machine learning model to classify different types of potatoes.  
+✅ Built using **Python, TensorFlow**, and **scikit-learn**.  
+✅ Deployed as a web app for easy access.  
+
+📌 **Live Demo**: [Potato Classification Demo](https://potato-classification-model-0oqc.onrender.com/)  
+📂 **GitHub Repo**: [Potato Classification Repo](https://github.com/Kawaljeet999/POTATO-CLASSIFICATION)
+
+🔹 Churn Prediction Model
+✅ Predicts customer churn using machine learning techniques.
+✅ Built with Python, Scikit-Learn, Pandas, and Flask.
+✅ Provides insights for businesses to improve customer retention.
+
+📌 Live Demo: Churn Prediction App
+📂 GitHub Repo: Churn Prediction Repo
+
+### 🔹 **OCR-Powered Attendance Management System**
+✅ Automates attendance tracking using OCR and Image Processing.
+✅ Built with Django, Python, and OpenCV.
+✅ Handles Excel Integration and Database Management.
+
+
+---
+
+You can copy-paste this code into your README. This will properly display both projects with their GitHub links and live demo! Let me know if you'd like any more changes.
 ---  
 
 ## 📌 Connect with Me!  
