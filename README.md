@@ -27,10 +27,7 @@
 
 <p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaljeet999&theme=radical&hide_border=true" width="48%">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaljeet999&layout=compact&theme=radical&hide_border=true" />
 </p>
- 
-</p>  
 
 ---  
 
