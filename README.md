@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"> </p>
 
 ## 🚀 About Me  
-👋 Hey there! I'm [Your Name], a passionate Software Developer and Problem Solver driven by innovation and efficiency. I specialize in backend engineering, OCR applications, and scalable systems, constantly pushing the boundaries of technology.  
+👋 Hey there! I'm KAWALJEET SINGH, a passionate Software Developer and Problem Solver driven by innovation and efficiency. I specialize in backend engineering, OCR applications, and scalable systems, constantly pushing the boundaries of technology.  
 
 💡 Currently, I'm:  
 - 🏗 Building an OCR-based Attendance Management System with Django and Python.  
