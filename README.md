@@ -1,151 +1,122 @@
-# Kawaljeet Singh
-
-## Software Engineer | Applied AI | Backend Developer
-
-Computer Science Engineer focused on building scalable software systems, AI-powered applications, backend services, and intelligent automation solutions.
-
-My work spans backend engineering, machine learning, computer vision, NLP, automation testing, and full-stack application development. I enjoy solving real-world engineering problems and building systems that can be deployed at scale.
-
----
-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1400&q=80" alt="Software Developer Banner" width="100%">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80" width="100%">
 </p>
 
-## Technical Expertise
+<h1 align="center">Kawaljeet Singh</h1>
 
-### Languages
+<h3 align="center">
+Software Engineer • Applied AI • Backend Developer
+</h3>
 
-Java • Python • JavaScript • SQL
+<p align="center">
+Building scalable software systems, AI-powered applications, backend services, and intelligent automation solutions.
+</p>
 
-### Backend Development
-
-Node.js • Express.js • FastAPI • REST APIs
-
-### Frontend Development
-
-React.js • HTML5 • CSS3 • Tailwind CSS
-
-### Databases
-
-MongoDB • MySQL
-
-### Testing & Automation
-
-Playwright • Selenium • Postman • API Testing • Test Automation
-
-### DevOps & Infrastructure
-
-Docker • Kubernetes • Linux • Git • CI/CD
-
-### Applied AI & Machine Learning
-
-TensorFlow • PyTorch • OpenCV • Transformers • NLP • Computer Vision • RAG Systems
+<p align="center">
+<a href="https://www.linkedin.com/in/kawalgeetsingh9/">LinkedIn</a> •
+<a href="https://github.com/Kawaljeet999">GitHub</a> •
+<a href="https://kawaljeet9.vercel.app/">Portfolio</a> •
+<a href="mailto:kawaljeet999@gmail.com">Email</a>
+</p>
 
 ---
 
-## Professional Experience
+## About Me
 
-### Software Developer | JRS Innovation
+Computer Science Engineer with experience spanning backend development, machine learning, computer vision, NLP, automation testing, and full-stack engineering.
 
-* Developed backend APIs and workflow modules across enterprise platforms.
-* Built Playwright-based automation testing workflows.
-* Developed YOLO-powered computer vision solutions for operational monitoring systems.
-* Contributed to production applications including Oxmaint, FleetRabbit, Marine CMMS, and Bus & Truck CMMS.
+Currently focused on:
 
-### Machine Learning Developer | ALC
-
-* Built computer vision solutions for automated attendance systems.
-* Developed predictive machine learning models for healthcare datasets.
-* Integrated deep learning inference pipelines into backend applications.
+* Backend Engineering
+* Applied AI Systems
+* System Design
+* Computer Vision
+* Product Engineering
+* Distributed Systems
 
 ---
 
-## Featured Projects
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,express,react,mongodb,mysql,docker,kubernetes,linux,git,fastapi,tensorflow,pytorch" />
+</p>
+
+---
+
+## Featured Work
 
 ### Vocalis-AI
 
-Real-time audio emotion analysis platform built using FastAPI, Librosa, KMeans clustering, MFCC feature extraction, and LSTM-based emotion classification.
+Real-time audio emotion analysis platform built using FastAPI, Librosa, KMeans clustering, MFCC feature extraction, and LSTM-based inference.
 
-**Tech Stack:** FastAPI, Python, Librosa, TensorFlow, LSTM, KMeans
-
-Repository:
-https://github.com/Kawaljeet999/Vocalis-AI
+**Tech:** FastAPI • TensorFlow • LSTM • Audio Processing
 
 ---
 
-### SEMT: Privacy-Preserving Crowd Analysis (Research Project)
+### SEMT: Privacy-Preserving Crowd Analysis
 
-Research-driven crowd analytics framework introducing the Stencil Elliptical Masking Technique (SEMT) for privacy-preserving crowd surveillance. The system anonymizes identity-sensitive regions while preserving crowd density information and analytical utility.
+Research-driven crowd analytics framework introducing the Stencil Elliptical Masking Technique (SEMT) for privacy-preserving surveillance and crowd density estimation.
 
-Key Highlights:
+**Highlights**
 
-* Developed a custom privacy-preserving masking pipeline.
-* Fine-tuned ResNet-50 and Faster R-CNN architectures.
-* Evaluated on ShanghaiTech, UCSD, and Mall datasets.
-* Achieved 95.5% Average Precision while maintaining strong privacy preservation.
-* Designed for deployment in smart-city crowd monitoring environments.
+* ResNet-50 + Faster R-CNN
+* Crowd Analytics
+* Computer Vision
+* Privacy-Preserving AI
+* Smart City Applications
 
-**Tech Stack:** PyTorch, OpenCV, ResNet-50, Faster R-CNN, Computer Vision
-
-Status: Research & Publication Work In Progress
+Status: Research Publication In Progress
 
 ---
 
 ### Alumni Portal
 
-Full-stack alumni networking platform enabling alumni-student engagement, authentication, profile management, and community interactions.
+Full-stack alumni networking platform enabling authentication, profile management, networking, and community engagement.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication
-
-Repository:
-(Add GitHub Repository Link)
+**Tech:** React • Node.js • Express.js • MongoDB
 
 ---
 
 ### Drone Communication Forensics
 
-Research project focused on semantic ambiguity resolution in drone communication using transformer-based NLP models.
+Transformer-based NLP research project for semantic ambiguity resolution in drone communication systems.
 
-**Tech Stack:** BERT, RoBERTa, ALBERT, spaCy, NLP
+**Tech:** BERT • RoBERTa • ALBERT • NLP
 
-Repository:
-https://github.com/Kawaljeet999/Drone_Research
+---
+
+## Experience Snapshot
+
+### Software Developer — JRS Innovation
+
+* Backend API Development
+* Enterprise Workflow Systems
+* Playwright Test Automation
+* YOLO Computer Vision Solutions
+
+### Machine Learning Developer — ALC
+
+* Computer Vision Systems
+* Healthcare ML Models
+* Production AI Integration
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kawaljeet999&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kawaljeet999&hide_border=true" />
+</p>
 
 ---
 
 ## Achievements
 
-* Ranked 1st in the Computer Science Engineering Department (GPA: 8.84/10)
+* Ranked 1st in Computer Science Engineering Department
 * Finalist, IIIT Delhi Hackathon
-* Winner, Inter-College Programming Competition (Code War)
-* Solved 100+ Data Structures and Algorithms problems
+* Winner, Inter-College Programming Competition
+* 100+ DSA Problems Solved
 
----
-
-## Leadership
-
-* President, AI/ML Club
-* Operations Head, Coding Club
-
----
-
-## Current Focus
-
-* Backend Engineering
-* System Design
-* Distributed Systems
-* Applied AI
-* Large Language Models
-* Software Architecture
-* Product Engineering
-
----
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/kawalgeetsingh9/
-
-Portfolio: https://kawaljeet9.vercel.app/
-
-GitHub: https://github.com/Kawaljeet999
+</p>
