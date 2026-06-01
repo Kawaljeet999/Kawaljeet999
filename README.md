@@ -8,6 +8,10 @@ My work spans backend engineering, machine learning, computer vision, NLP, autom
 
 ---
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1400&q=80" alt="Software Developer Banner" width="100%">
+</p>
+
 ## Technical Expertise
 
 ### Languages
