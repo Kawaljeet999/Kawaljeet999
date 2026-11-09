@@ -1,238 +1,212 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:0969DA&height=190&section=header&text=Kawaljeet%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Applied%20AI%20%7C%20Backend%20Developer&descAlignY=60&descSize=16" width="100%" alt="Kawaljeet Singh profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:142D4E,100:2563A6&height=190&section=header&text=Kawaljeet%20Singh&fontSize=44&fontColor=F0F6FC&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%20%E2%80%A2%20%20APPLIED%20AI%20%20%E2%80%A2%20%20BACKEND%20SYSTEMS&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="Kawaljeet Singh — Software Engineer"/>
 
-### Software Engineer · Applied AI Engineer · Backend Developer
-
-Building scalable backend systems, intelligent applications, computer vision solutions and production-ready software.
-
-[LinkedIn](https://www.linkedin.com/in/kawalgeetsingh9/) · [GitHub](https://github.com/Kawaljeet999) · [Portfolio](https://kawaljeet-portfolio-ecru.vercel.app/) · [Email](mailto:kawaljeet999@gmail.com) · [LeetCode](https://leetcode.com/)
+<a href="https://www.linkedin.com/in/kawalgeetsingh9/"><img src="https://img.shields.io/badge/LINKEDIN-1B2638?style=flat-square&logo=linkedin&logoColor=58A6FF" /></a>
+<a href="https://github.com/Kawaljeet999"><img src="https://img.shields.io/badge/GITHUB-1B2638?style=flat-square&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://kawaljeet-portfolio-ecru.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1B2638?style=flat-square&logo=vercel&logoColor=FFFFFF" /></a>
+<a href="mailto:kawaljeet999@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1B2638?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-1B2638?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
 
 </div>
 
 ---
 
-## 01 / About Me
+## About
 
-Computer Science Engineer with 1+ year of experience across software engineering, backend development, full-stack applications, machine learning, computer vision, NLP and test automation.
+Computer Science Engineer with 1+ year of experience building software applications, backend services and applied AI solutions.
 
-I focus on building reliable software, engineering practical AI solutions and developing systems that solve real-world problems.
+- B.Tech Computer Science Engineering — Government Engineering College, Ajmer.
+- Department Rank 1 · CGPA 8.84/10.
+- Experience in backend engineering, full-stack development and machine learning.
+- Hands-on work in Computer Vision, NLP, Deep Learning and automation.
+- Interested in scalable systems, Applied AI and product engineering.
 
-- **Education:** B.Tech Computer Science Engineering, Government Engineering College, Ajmer
-- **Academic standing:** Department Rank 1 — CGPA 8.84/10
-- **Engineering:** REST APIs, enterprise platforms, microservices and full-stack applications
-- **Applied AI:** Computer Vision, Deep Learning, NLP, Transformers and RAG
-- **Infrastructure:** Docker, Kubernetes, Linux, AWS and CI/CD
-- **Quality Engineering:** Playwright, Selenium, API testing and automation
+## Technical Skills
 
-**Areas of interest**
-
-Backend Engineering · Applied AI · Distributed Systems · System Design · Computer Vision · Cloud Engineering · Software Quality
-
----
-
-## 02 / Technical Expertise
-
-| Domain | Technologies |
+| Category | Technologies |
 |:---|:---|
-| **Languages** | Java, Python, JavaScript, TypeScript, SQL |
-| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express.js, FastAPI, Django, Spring Boot |
-| **Databases** | MongoDB, MySQL, Redis |
-| **AI / ML** | TensorFlow, PyTorch, Scikit-learn, OpenCV, YOLO, LSTM |
-| **NLP / AI** | BERT, RoBERTa, ALBERT, Transformers, LangChain, RAG |
-| **Cloud / DevOps** | Docker, Kubernetes, Linux, AWS EC2, S3, Git, CI/CD |
-| **Testing** | Playwright, Selenium, Healenium, Postman, API Testing |
-| **Core CS** | DSA, OOP, DBMS, OS, Computer Networks, System Design |
+| Languages | Java, Python, JavaScript, TypeScript, SQL |
+| Frontend | React.js, HTML5, CSS3, Tailwind CSS |
+| Backend | Node.js, Express.js, FastAPI, Django, Spring Boot |
+| Databases | MongoDB, MySQL, Redis |
+| AI / ML | TensorFlow, PyTorch, Scikit-learn, OpenCV, YOLO |
+| NLP | BERT, RoBERTa, ALBERT, Transformers, LangChain, RAG |
+| Cloud & DevOps | Docker, Kubernetes, Linux, AWS, CI/CD |
+| Testing | Playwright, Selenium, Healenium, Postman |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,fastapi,django,spring,mongodb,mysql,redis,docker,kubernetes,linux,aws,git,githubactions,tensorflow,pytorch,opencv" alt="Technical skills" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,fastapi,django,mongodb,mysql,redis,docker,kubernetes,linux,aws,git,githubactions,tensorflow,pytorch,opencv" alt="Technology stack"/>
 
 </div>
 
----
+## Professional Experience
 
-## 03 / Professional Experience
+**Software Engineer — JRS Innovation**
 
-### Software Engineer — JRS Innovation
-`January 2026 – Present` · Offline
+`Jan 2026 – Present` · Offline
 
-- Shipped 20+ backend REST APIs and workflow modules across five enterprise platforms, including Oxmaint, FleetRabbit, Bus & Truck CMMS and Marine.
-- Developed Playwright automation suites for 10+ critical modules, reducing manual regression effort by 40%.
-- Built YOLO-based CCTV water-spill detection, achieving 92% accuracy in live fleet environments.
-- Developed vehicle number plate recognition using YOLO and OCR, processing 500+ reads/day at 95% character-level accuracy.
-- Collaborated on API contracts, integration testing, code reviews and production releases.
+- Delivered 20+ backend REST APIs across five enterprise platforms.
+- Built Playwright automation for 10+ modules, reducing regression effort by 40%.
+- Developed YOLO-based CCTV water-spill detection with 92% accuracy.
+- Built YOLO + OCR number plate recognition processing 500+ reads/day at 95% character-level accuracy.
 
-### Machine Learning Engineer — ALC
-`August 2025 – October 2025` · Hybrid
+**Machine Learning Engineer — ALC**
 
-- Deployed a real-time face-detection attendance system supporting 200+ daily users.
-- Developed healthcare ML classifiers across diabetes, cardiac risk and respiratory datasets, achieving 87%+ validation accuracy.
+`Aug 2025 – Oct 2025` · Hybrid
+
+- Deployed face-recognition attendance for 200+ daily users.
+- Developed healthcare ML classifiers with 87%+ validation accuracy.
 - Built FastAPI inference pipelines, reducing prediction latency by 60%.
-- Improved model F1-score from 0.73 to 0.89 through feature engineering, cross-validation and hyperparameter tuning.
-- Applied SMOTE and class-imbalance correction to improve model robustness.
+- Improved model F1-score from 0.73 to 0.89.
 
-### Full-Stack Developer — Birlasoft
-`March 2024 – May 2024` · On-site, Pune
+**Full-Stack Developer — Birlasoft**
 
-- Built three full-stack MERN applications with responsive interfaces and RESTful APIs.
-- Integrated five or more financial APIs, including NSE, BSE and CoinGecko.
-- Automated extraction from 1,000+ financial documents using Tesseract OCR.
-- Improved API response times by 45% using Redis caching and database indexing.
-- Deployed applications through AWS EC2 and CI/CD pipelines.
-- Implemented JWT authentication and role-based access control.
+`Mar 2024 – May 2024` · Pune
 
-### Linux Security Engineer — CDAC
-`June 2024 – July 2024` · Remote
+- Built three MERN applications with REST APIs.
+- Integrated NSE, BSE and CoinGecko financial APIs.
+- Automated 1,000+ financial document extractions using Tesseract OCR.
+- Improved API response times by 45% through Redis and indexing.
+- Implemented JWT authentication and RBAC.
 
-- Performed Active Directory enumeration, privilege escalation analysis and account auditing.
+**Linux Security Engineer — CDAC**
+
+`Jun 2024 – Jul 2024` · Remote
+
+- Performed Active Directory enumeration and privilege escalation analysis.
 - Conducted Nmap reconnaissance across 50+ hosts.
-- Used BloodHound to identify lateral movement paths and over-privileged accounts.
-- Documented 15+ vulnerabilities with risk assessments and remediation recommendations.
+- Used BloodHound to identify lateral movement paths.
+- Documented 15+ security vulnerabilities and remediation recommendations.
 
----
+## Selected Projects
 
-## 04 / Selected Projects
+**LeadScore AI — Intelligent Lead Discovery**
 
-### LeadScore AI
-**Intelligent Lead Discovery & Scoring Platform**
+`Python · Selenium · BeautifulSoup · Streamlit`
 
-`Python` `Selenium` `BeautifulSoup` `Streamlit`
+- Scraped 500+ company websites to extract business contact information and technology signals.
+- Built a lead-scoring engine ranking prospects by business fit.
+- Achieved 3× faster lead qualification.
+- Developed an interactive dashboard with filtering and CSV export.
 
-- Scraped 500+ company websites to extract emails, phone numbers, social profiles and technology-stack signals.
-- Engineered a custom lead-scoring system ranking prospects by business fit.
-- Delivered 3× faster lead qualification than manual research.
-- Developed a Streamlit dashboard with filtering, scoring visualisation and CSV export.
+**Vocalis-AI — Audio Emotion Analysis**
 
-### Vocalis-AI
-**Real-Time Audio Emotion Analysis**
+`FastAPI · TensorFlow · Librosa · KMeans · LSTM`
 
-`FastAPI` `TensorFlow` `Librosa` `KMeans` `LSTM`
+- Developed MFCC-based audio emotion classification.
+- Achieved 83% test accuracy across seven emotion classes.
+- Implemented clustering and model quantisation.
+- Exposed real-time predictions through FastAPI.
 
-- Developed an audio emotion classification system using MFCC feature extraction.
-- Trained an LSTM classifier achieving 83% test accuracy across seven emotion classes.
-- Applied KMeans-based feature clustering and model quantisation.
-- Built FastAPI endpoints supporting audio uploads and per-class probability predictions.
+**Alumni Portal — Networking Platform**
 
-### Alumni Portal
-**Full-Stack Alumni Networking Platform**
+`React · Node.js · Express · MongoDB`
 
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-- Built a networking platform supporting 200+ test users.
+- Built a platform supporting 200+ test users.
+- Developed 12 REST APIs for alumni search, messaging and events.
 - Implemented JWT authentication and role-based access control.
-- Developed 12 REST APIs for alumni search, direct messaging and event registration.
-- Designed dedicated dashboards for students, alumni and administrators.
 
----
+## Research
 
-## 05 / Research & Academic Work
+**SEMT — Privacy-Preserving Crowd Analysis**
 
-### SEMT — Privacy-Preserving Crowd Analysis
+`PyTorch · OpenCV · Faster R-CNN · ResNet-50`
 
-`Python` `PyTorch` `OpenCV` `Faster R-CNN` `ResNet-50`
+- Developed Stencil Elliptical Masking Technique for privacy-preserving crowd surveillance.
+- Evaluated on ShanghaiTech, Mall, UCSD and UCF-CC-50 datasets.
+- Achieved 95.50% AP and 56.20% PAR.
 
-- Developed the Stencil Elliptical Masking Technique for privacy-preserving crowd surveillance.
-- Designed anonymisation that protects identity-sensitive regions while retaining crowd structure.
-- Evaluated across ShanghaiTech, Mall, UCSD and UCF-CC-50 datasets.
-- Achieved 95.50% Average Precision and 56.20% Pixel Anonymization Ratio.
-- Evaluated using AP, PAR, MAE, MSE and mA.
+**Drone Communication Intelligence**
 
-### Drone Communication Intelligence
+`BERT · RoBERTa · ALBERT · spaCy`
 
-`Python` `BERT` `RoBERTa` `ALBERT` `spaCy`
+- Developed NLP pipeline for semantic ambiguity detection in drone commands.
+- Fine-tuned transformers on 4,000 domain-specific samples.
+- Achieved 91% disambiguation accuracy and reduced semantic errors by 18%.
 
-- Developed an NLP pipeline to detect word-sense ambiguity in drone communication commands.
-- Fine-tuned transformer models on a 4,000-sample domain-specific dataset.
-- Achieved 91% disambiguation accuracy.
-- Reduced semantic errors by 18% compared with baseline.
-- Prepared benchmarking, error analysis and deployment recommendations for safety-critical drone systems.
-
----
-
-## 06 / Education
+## Education
 
 **B.Tech — Computer Science Engineering**
 
-Government Engineering College, Ajmer
+Government Engineering College, Ajmer · 2022–2026
 
-`2022 – 2026`
-
-| Academic Metric | Result |
+| Academic performance | Result |
 |:---|:---|
 | CGPA | **8.84 / 10** |
 | Department Rank | **1st** |
 | Degree | Bachelor of Technology |
-| Specialisation | Computer Science Engineering |
 
-Relevant coursework: Data Structures & Algorithms, DBMS, Machine Learning, Deep Learning, Computer Vision and NLP.
+## Achievements
 
----
+- **Department Rank 1** — Computer Science Engineering.
+- **IIIT Delhi Hackathon** — Finalist among 200+ teams.
+- **Code War** — Winner, Inter-College Programming Competition.
+- **LeetCode** — 100+ DSA problems solved.
 
-## 07 / Achievements
-
-| Achievement | Recognition |
-|:---|:---|
-| Department Rank | **1st — Computer Science Engineering** |
-| IIIT Delhi Hackathon | **Finalist — 200+ teams** |
-| Code War | **Winner — Inter-College Programming Competition** |
-| LeetCode | **100+ DSA problems solved** |
-
----
-
-## 08 / Leadership & Certifications
+## Leadership & Certifications
 
 **Leadership**
 
-- **AI/ML Club President:** Founded and led a 60+ member club; organised eight hands-on workshops covering Machine Learning, Computer Vision and NLP.
-- **Coding Club Operations Head:** Managed 5+ technical events and programming contests involving 100+ student developers.
+- AI/ML Club President — Founded and led a 60+ member club; organised eight technical workshops.
+- Coding Club Operations Head — Managed 5+ events and programming competitions for 100+ students.
 
 **Certifications**
 
 - Machine Learning — Coursera
 - Google Campus Ambassador
 - SQL for Data Science
-- RHCSA — Red Hat Certified System Administrator
+- RHCSA — Red Hat
 
 ---
 
-## 09 / GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Kawaljeet999">
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Kawaljeet999&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Profile Statistics"/>
-</a>
-<a href="https://github.com/Kawaljeet999">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kawaljeet999&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Programming Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kawaljeet999&theme=github_dark" alt="GitHub contribution overview"/>
 </a>
 
-<br/>
-
 <a href="https://github.com/Kawaljeet999">
-<img width="75%" src="https://streak-stats.demolab.com?user=Kawaljeet999&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2F81F7&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Contribution Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Kawaljeet999&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
 </a>
+
+</div>
+
+### Most Used Languages
+
+<div align="center">
+
+| Language | Usage | Share |
+|:---|:---|---:|
+| Python | <img src="https://img.shields.io/badge/████████-58A6FF?style=flat-square" alt=""/> | **40%** |
+| Java | <img src="https://img.shields.io/badge/█████-E76F00?style=flat-square" alt=""/> | **23%** |
+| JavaScript | <img src="https://img.shields.io/badge/█████-F1E05A?style=flat-square" alt=""/> | **23%** |
+| SQL | <img src="https://img.shields.io/badge/██-4479A1?style=flat-square" alt=""/> | **9%** |
+| Bash | <img src="https://img.shields.io/badge/█-89E051?style=flat-square" alt=""/> | **5%** |
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kawaljeet999&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
 ---
 
-## 10 / Connect
-
-Interested in collaborating on software engineering, backend systems, applied AI, machine learning, computer vision and cloud technologies.
-
-Open to engineering opportunities, research collaborations and challenging technical projects.
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawalgeetsingh9/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kawaljeet999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0969DA?style=flat-square&logo=vercel&logoColor=white)](https://kawaljeet-portfolio-ecru.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kawaljeet999@gmail.com)
+### Let's Connect
 
-<br/>
+Open to opportunities in Software Engineering, Backend Development, Applied AI, Machine Learning and Cloud Engineering.
 
-*Engineering with purpose. Building for scale. Learning continuously.*
+[LinkedIn](https://www.linkedin.com/in/kawalgeetsingh9/) · [GitHub](https://github.com/Kawaljeet999) · [Portfolio](https://kawaljeet-portfolio-ecru.vercel.app/) · [Email](mailto:kawaljeet999@gmail.com)
+
+*Build thoughtfully. Engineer reliably. Keep learning.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,60:142D4E,100:0D1117&height=90&section=footer" width="100%" alt="Footer"/>
 
 </div>
