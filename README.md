@@ -80,7 +80,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 - Used BloodHound to identify lateral movement paths.
 - Documented 15+ security vulnerabilities and remediation recommendations.
 
-## Selected Projects
+## Projects
 
 **LeadScore AI — Intelligent Lead Discovery**
 
@@ -190,8 +190,6 @@ Government Engineering College, Ajmer · 2022–2026
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kawaljeet999&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
