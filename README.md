@@ -37,7 +37,28 @@ Computer Science Engineer with 1+ year of experience building software applicati
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,fastapi,django,mongodb,mysql,redis,docker,kubernetes,linux,aws,git,githubactions,tensorflow,pytorch,opencv" alt="Technology stack"/>
+<a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/></a>
+<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript"/></a>
+<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/></a>
+<a href="https://expressjs.com/" title="Express"><img src="https://skillicons.dev/icons?i=express" height="50" alt="Express"/></a>
+<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI"/></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" height="50" alt="Django"/></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/></a>
+<a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis"/></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/></a>
+<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes"/></a>
+<a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/></a>
+
+<a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/></a>
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions"/></a>
+<a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow"/></a>
+<a href="https://pytorch.org/" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch"/></a>
+<a href="https://opencv.org/" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv" height="50" alt="OpenCV"/></a>
 
 </div>
 
@@ -186,10 +207,6 @@ Government Engineering College, Ajmer · 2022–2026
 | JavaScript | <img src="https://img.shields.io/badge/█████-F1E05A?style=flat-square" alt=""/> | **23%** |
 | SQL | <img src="https://img.shields.io/badge/██-4479A1?style=flat-square" alt=""/> | **9%** |
 | Bash | <img src="https://img.shields.io/badge/█-89E051?style=flat-square" alt=""/> | **5%** |
-
-</div>
-
-<div align="center">
 
 </div>
 
