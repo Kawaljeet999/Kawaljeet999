@@ -1,12 +1,12 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:142D4E,100:2563A6&height=190&section=header&text=Kawaljeet%20Singh&fontSize=44&fontColor=F0F6FC&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%20%E2%80%A2%20%20APPLIED%20AI%20%20%E2%80%A2%20%20BACKEND%20SYSTEMS&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="Kawaljeet Singh — Software Engineer"/>
 
 <a href="https://www.linkedin.com/in/kawalgeetsingh9/"><img src="https://img.shields.io/badge/LINKEDIN-1B2638?style=flat-square&logo=linkedin&logoColor=58A6FF" /></a>
 <a href="https://github.com/Kawaljeet999"><img src="https://img.shields.io/badge/GITHUB-1B2638?style=flat-square&logo=github&logoColor=FFFFFF" /></a>
-<a href="https://kawaljeet-portfolio-ecru.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1B2638?style=flat-square&logo=vercel&logoColor=FFFFFF" /></a>
-<a href="mailto:kawaljeet999@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1B2638?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-1B2638?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://kawaljeet9.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1B2638?style=flat-square&logo=vercel&logoColor=FFFFFF" /></a>
+<a href="mailto:kawalgeet999@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1B2638?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://leetcode.com/u/Kawaljeet_Singh/"><img src="https://img.shields.io/badge/LEETCODE-1B2638?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
 
 </div>
 
@@ -43,7 +43,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 
 ## Professional Experience
 
-**Software Engineer — JRS Innovation**
+**[Software Engineer — JRS Innovation](https://drive.google.com/file/d/1Nsi8dgFHPNeBXYFpnKuVM3ml-woPPiWx/view?usp=sharing)**
 
 `Jan 2026 – Present` · Offline
 
@@ -52,7 +52,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 - Developed YOLO-based CCTV water-spill detection with 92% accuracy.
 - Built YOLO + OCR number plate recognition processing 500+ reads/day at 95% character-level accuracy.
 
-**Machine Learning Engineer — ALC**
+**[Machine Learning Engineer — ALC](https://drive.google.com/file/d/1Z78bggIR568_Q9DdJicLYdcs5u_rt7pQ/view?usp=sharing)**
 
 `Aug 2025 – Oct 2025` · Hybrid
 
@@ -61,7 +61,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 - Built FastAPI inference pipelines, reducing prediction latency by 60%.
 - Improved model F1-score from 0.73 to 0.89.
 
-**Full-Stack Developer — Birlasoft**
+**[Full-Stack Developer — Birlasoft](https://drive.google.com/file/d/1Vqk3x_ZncdjjY0g0S4ooKoaBjJ4YbJP9/view?usp=sharing)**
 
 `Mar 2024 – May 2024` · Pune
 
@@ -71,7 +71,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 - Improved API response times by 45% through Redis and indexing.
 - Implemented JWT authentication and RBAC.
 
-**Linux Security Engineer — CDAC**
+**[Linux Security Engineer — CDAC](https://drive.google.com/file/d/1kgSmXpSXEe93UqOwtejOY_Jye7yAl4nW/view?usp=sharing)**
 
 `Jun 2024 – Jul 2024` · Remote
 
@@ -82,7 +82,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 
 ## Projects
 
-**LeadScore AI — Intelligent Lead Discovery**
+**[LeadScore AI — Intelligent Lead Discovery](https://github.com/Kawaljeet999/LeadScore-AI)** · [Live Demo](https://leadscore-ai.onrender.com/)
 
 `Python · Selenium · BeautifulSoup · Streamlit`
 
@@ -91,7 +91,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 - Achieved 3× faster lead qualification.
 - Developed an interactive dashboard with filtering and CSV export.
 
-**Vocalis-AI — Audio Emotion Analysis**
+**[Vocalis-AI — Audio Emotion Analysis](https://github.com/Kawaljeet999/Vocalis-AI)** · [Live Demo](https://vocalis-ai-r9co.onrender.com/)
 
 `FastAPI · TensorFlow · Librosa · KMeans · LSTM`
 
@@ -100,7 +100,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 - Implemented clustering and model quantisation.
 - Exposed real-time predictions through FastAPI.
 
-**Alumni Portal — Networking Platform**
+**[Alumni Portal — Networking Platform](https://github.com/Kawaljeet999/Alumni_Portal)**
 
 `React · Node.js · Express · MongoDB`
 
@@ -110,7 +110,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 
 ## Research
 
-**SEMT — Privacy-Preserving Crowd Analysis**
+**[SEMT — Privacy-Preserving Crowd Analysis](https://github.com/Kawaljeet999/Crowd_Monitoring)** · [Research Paper](https://drive.google.com/file/d/1c11WCP70lhxCSRpR8PCFCqszmrXca8hQ/view?usp=sharing)
 
 `PyTorch · OpenCV · Faster R-CNN · ResNet-50`
 
@@ -118,7 +118,7 @@ Computer Science Engineer with 1+ year of experience building software applicati
 - Evaluated on ShanghaiTech, Mall, UCSD and UCF-CC-50 datasets.
 - Achieved 95.50% AP and 56.20% PAR.
 
-**Drone Communication Intelligence**
+**[Drone Communication Intelligence](https://github.com/Kawaljeet999/Drone_Research)**
 
 `BERT · RoBERTa · ALBERT · spaCy`
 
@@ -143,7 +143,7 @@ Government Engineering College, Ajmer · 2022–2026
 - **Department Rank 1** — Computer Science Engineering.
 - **IIIT Delhi Hackathon** — Finalist among 200+ teams.
 - **Code War** — Winner, Inter-College Programming Competition.
-- **LeetCode** — 100+ DSA problems solved.
+- **[LeetCode](https://leetcode.com/u/Kawaljeet_Singh/)** — 100+ DSA problems solved.
 
 ## Leadership & Certifications
 
@@ -154,10 +154,10 @@ Government Engineering College, Ajmer · 2022–2026
 
 **Certifications**
 
-- Machine Learning — Coursera
-- Google Campus Ambassador
-- SQL for Data Science
-- RHCSA — Red Hat
+- [Machine Learning — Coursera](https://drive.google.com/file/d/1Firi-H5gs2QhW5vve5G8iNLcuxs4b60o/view?usp=sharing)
+- [Google Campus Ambassador](https://drive.google.com/file/d/15E8OfywFUh3oMTadw4gitA_D9zb4JKKp/view?usp=sharing)
+- [SQL for Data Science](https://drive.google.com/file/d/16uFfrN9j0HWaFfC3eLHOzWg1Ht6UjClQ/view?usp=sharing)
+- [RHCSA — Red Hat](https://drive.google.com/file/d/1obgUj4sl9PhlLHaqN3xgrqSQCJRGvSr_/view?usp=sharing)
 
 ---
 
@@ -201,7 +201,7 @@ Government Engineering College, Ajmer · 2022–2026
 
 Open to opportunities in Software Engineering, Backend Development, Applied AI, Machine Learning and Cloud Engineering.
 
-[LinkedIn](https://www.linkedin.com/in/kawalgeetsingh9/) · [GitHub](https://github.com/Kawaljeet999) · [Portfolio](https://kawaljeet-portfolio-ecru.vercel.app/) · [Email](mailto:kawaljeet999@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kawalgeetsingh9/) · [GitHub](https://github.com/Kawaljeet999) · [Portfolio](https://kawaljeet9.vercel.app/) · [Email](mailto:kawalgeet999@gmail.com)
 
 *Build thoughtfully. Engineer reliably. Keep learning.*
 
